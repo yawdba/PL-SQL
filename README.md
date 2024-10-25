@@ -1,0 +1,1 @@
+This project is designed to handle common tasks related to employee management within an organization, focusing on data integrity, employee status tracking, and job-related updates. It includes a set of stored procedures, functions, and triggers to streamline employee information management, enforce rules, and maintain audit logs.
