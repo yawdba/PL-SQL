@@ -11,7 +11,7 @@ The **Employee Management System** project provides a set of stored procedures, 
    - **Parameters**:
      - `p_emp_id`: Employee ID
      - `p_new_job_title`: New job title
-
+       
 
 2. **`MARK_EMPLOYEE_EXIT`**
    - Updates an employee's exit date and changes their status to "Not Active."
