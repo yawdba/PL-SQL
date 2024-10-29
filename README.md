@@ -52,7 +52,7 @@ The **Employee Management System** project is designed to handle common tasks re
 ## Getting Started
 
 ### Prerequisites
-- Oracle SQL
+- Oracle SQL.
   
 ### Installation
 1. Clone this repository:
